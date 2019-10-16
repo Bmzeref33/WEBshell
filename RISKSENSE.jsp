@@ -7,7 +7,7 @@
 String checkUser = "CyberWorks";
 String checkPass = "2744779489c967916b735155c1d28691";
 // MySql database port
-String dbPort = "3306";					// port (usually 3306)
+String dbPort = "1433";					// port (usually 3306)
 // Dont touch the rest!
 %>
 <html><body>
